@@ -1,0 +1,4 @@
+app/code/local/Targetpay/
+app/design/frontend/base/default/layout/bankwire.xml
+app/design/frontend/base/default/template/*             app/design/frontend/base/default/template/
+app/etc/modules/*                                       app/etc/modules/
